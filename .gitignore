@@ -1,0 +1,22 @@
+# 任何真实聊天数据、导出文件、个人分析产物 — 绝对不能进仓库
+texts/
+work/
+final/
+*.jsonl
+*.txt
+about_me*.md
+
+# 环境/缓存
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
